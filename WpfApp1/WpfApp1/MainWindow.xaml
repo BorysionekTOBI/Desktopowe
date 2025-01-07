@@ -1,0 +1,18 @@
+﻿<Window x:Class="Canvasy.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Canvasy"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <ComboBox x:Name="cbKolor" SelectionChanged="cbKolor_Zmiana" Margin="10">
+            <ComboBoxItem Content="Niebieski" Tag="Blue" />
+            <ComboBoxItem Content="Czerwony" Tag="Red" />
+            <ComboBoxItem Content="Zielony" Tag="Green" />
+            <ComboBoxItem Content="Żółty" Tag="Yellow" />
+        </ComboBox>
+        <Canvas x:Name="cnv" Background="White" MouseDown="Okno_MouseDown" Height="400"/>
+    </StackPanel>
+</Window>

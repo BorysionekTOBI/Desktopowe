@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "konsolowa", "konsolowa.exe", "{516F5D2C-5B34-4849-92A9-A62288717836}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = C:\Users\t4\Desktop\TB\Przykladowe egzaminy\Desktopowe\1\PESEL\Konsola\konsolowa\x64\Debug\konsolowa.exe
+		RemoteMachine = SALA36ST2
+		StartingDirectory = C:\Users\t4\Desktop\TB\Przykladowe egzaminy\Desktopowe\1\PESEL\Konsola\konsolowa\x64\Debug
+		Environment = Domyślne
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		UseLegacyDebugEngines = No
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+		IORedirection = Auto
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{516F5D2C-5B34-4849-92A9-A62288717836}.Release|x64.ActiveCfg = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02B5DA61-C545-4396-8619-6562F025E03D}
+	EndGlobalSection
+EndGlobal

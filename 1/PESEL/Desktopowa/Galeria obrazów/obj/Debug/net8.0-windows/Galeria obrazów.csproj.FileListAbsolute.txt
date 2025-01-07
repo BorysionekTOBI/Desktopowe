@@ -1,0 +1,19 @@
+C:\Users\t4\Desktop\TB\Przykladowe egzaminy\Desktopowe\1\PESEL\Desktopowa\Galeria obrazów\bin\Debug\net8.0-windows\Galeria obrazów.exe
+C:\Users\t4\Desktop\TB\Przykladowe egzaminy\Desktopowe\1\PESEL\Desktopowa\Galeria obrazów\bin\Debug\net8.0-windows\Galeria obrazów.deps.json
+C:\Users\t4\Desktop\TB\Przykladowe egzaminy\Desktopowe\1\PESEL\Desktopowa\Galeria obrazów\bin\Debug\net8.0-windows\Galeria obrazów.runtimeconfig.json
+C:\Users\t4\Desktop\TB\Przykladowe egzaminy\Desktopowe\1\PESEL\Desktopowa\Galeria obrazów\bin\Debug\net8.0-windows\Galeria obrazów.dll
+C:\Users\t4\Desktop\TB\Przykladowe egzaminy\Desktopowe\1\PESEL\Desktopowa\Galeria obrazów\bin\Debug\net8.0-windows\Galeria obrazów.pdb
+C:\Users\t4\Desktop\TB\Przykladowe egzaminy\Desktopowe\1\PESEL\Desktopowa\Galeria obrazów\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\t4\Desktop\TB\Przykladowe egzaminy\Desktopowe\1\PESEL\Desktopowa\Galeria obrazów\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\t4\Desktop\TB\Przykladowe egzaminy\Desktopowe\1\PESEL\Desktopowa\Galeria obrazów\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\t4\Desktop\TB\Przykladowe egzaminy\Desktopowe\1\PESEL\Desktopowa\Galeria obrazów\obj\Debug\net8.0-windows\Galeria obrazów_MarkupCompile.cache
+C:\Users\t4\Desktop\TB\Przykladowe egzaminy\Desktopowe\1\PESEL\Desktopowa\Galeria obrazów\obj\Debug\net8.0-windows\Galeria obrazów.g.resources
+C:\Users\t4\Desktop\TB\Przykladowe egzaminy\Desktopowe\1\PESEL\Desktopowa\Galeria obrazów\obj\Debug\net8.0-windows\Galeria obrazów.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t4\Desktop\TB\Przykladowe egzaminy\Desktopowe\1\PESEL\Desktopowa\Galeria obrazów\obj\Debug\net8.0-windows\Galeria obrazów.AssemblyInfoInputs.cache
+C:\Users\t4\Desktop\TB\Przykladowe egzaminy\Desktopowe\1\PESEL\Desktopowa\Galeria obrazów\obj\Debug\net8.0-windows\Galeria obrazów.AssemblyInfo.cs
+C:\Users\t4\Desktop\TB\Przykladowe egzaminy\Desktopowe\1\PESEL\Desktopowa\Galeria obrazów\obj\Debug\net8.0-windows\Galeria obrazów.csproj.CoreCompileInputs.cache
+C:\Users\t4\Desktop\TB\Przykladowe egzaminy\Desktopowe\1\PESEL\Desktopowa\Galeria obrazów\obj\Debug\net8.0-windows\Galeria obrazów.dll
+C:\Users\t4\Desktop\TB\Przykladowe egzaminy\Desktopowe\1\PESEL\Desktopowa\Galeria obrazów\obj\Debug\net8.0-windows\refint\Galeria obrazów.dll
+C:\Users\t4\Desktop\TB\Przykladowe egzaminy\Desktopowe\1\PESEL\Desktopowa\Galeria obrazów\obj\Debug\net8.0-windows\Galeria obrazów.pdb
+C:\Users\t4\Desktop\TB\Przykladowe egzaminy\Desktopowe\1\PESEL\Desktopowa\Galeria obrazów\obj\Debug\net8.0-windows\Galeria obrazów.genruntimeconfig.cache
+C:\Users\t4\Desktop\TB\Przykladowe egzaminy\Desktopowe\1\PESEL\Desktopowa\Galeria obrazów\obj\Debug\net8.0-windows\ref\Galeria obrazów.dll

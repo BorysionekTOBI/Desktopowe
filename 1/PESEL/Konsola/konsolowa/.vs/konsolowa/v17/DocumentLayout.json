@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\t4\\Desktop\\TB\\Przykladowe egzaminy\\Desktopowe\\1\\PESEL\\Konsola\\konsolowa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A65E3A3-C464-4549-992A-6A7B6E52E779}|konsolowa.vcxproj|C:\\Users\\t4\\Desktop\\TB\\Przykladowe egzaminy\\Desktopowe\\1\\PESEL\\Konsola\\konsolowa\\konsolowa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A65E3A3-C464-4549-992A-6A7B6E52E779}|konsolowa.vcxproj|solutionrelative:konsolowa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "konsolowa.cpp",
+              "DocumentMoniker": "C:\\Users\\t4\\Desktop\\TB\\Przykladowe egzaminy\\Desktopowe\\1\\PESEL\\Konsola\\konsolowa\\konsolowa.cpp",
+              "RelativeDocumentMoniker": "konsolowa.cpp",
+              "ToolTip": "C:\\Users\\t4\\Desktop\\TB\\Przykladowe egzaminy\\Desktopowe\\1\\PESEL\\Konsola\\konsolowa\\konsolowa.cpp",
+              "RelativeToolTip": "konsolowa.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-12T07:57:28.291Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

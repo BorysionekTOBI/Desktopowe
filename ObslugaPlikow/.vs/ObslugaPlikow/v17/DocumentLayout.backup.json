@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\t4\\source\\repos\\ObslugaPlikow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B469EDB-1E24-45E6-87E3-96F96A625F62}|ObslugaPlikow\\ObslugaPlikow.csproj|c:\\users\\t4\\source\\repos\\obslugaplikow\\obslugaplikow\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B469EDB-1E24-45E6-87E3-96F96A625F62}|ObslugaPlikow\\ObslugaPlikow.csproj|solutionrelative:obslugaplikow\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B469EDB-1E24-45E6-87E3-96F96A625F62}|ObslugaPlikow\\ObslugaPlikow.csproj|c:\\users\\t4\\source\\repos\\obslugaplikow\\obslugaplikow\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8B469EDB-1E24-45E6-87E3-96F96A625F62}|ObslugaPlikow\\ObslugaPlikow.csproj|solutionrelative:obslugaplikow\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\t4\\source\\repos\\ObslugaPlikow\\ObslugaPlikow\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ObslugaPlikow\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\t4\\source\\repos\\ObslugaPlikow\\ObslugaPlikow\\MainWindow.xaml",
+              "RelativeToolTip": "ObslugaPlikow\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-10T08:39:41.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\t4\\source\\repos\\ObslugaPlikow\\ObslugaPlikow\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ObslugaPlikow\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\t4\\source\\repos\\ObslugaPlikow\\ObslugaPlikow\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ObslugaPlikow\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T08:39:41.202Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

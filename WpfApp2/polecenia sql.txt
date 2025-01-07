@@ -1,0 +1,27 @@
+CREATE TABLE pracownicy (
+    id SERIAL PRIMARY KEY,                    		-- Unikalne ID, generowane automatycznie
+    imie VARCHAR(50) NOT NULL,               		-- Imię (max 50 znaków, wymagane)
+    nazwisko VARCHAR(50) NOT NULL,          		-- Nazwisko (max 50 znaków, wymagane)
+    pesel CHAR(11) UNIQUE NOT NULL,          		-- PESEL (dokładnie 11 znaków, unikalny, wymagany)
+    email VARCHAR(100) UNIQUE NOT NULL,      		-- Email (unikalny, wymagany)
+    data_przyjecia DATE NOT NULL,            		-- Data przyjęcia do pracy (wymagana)
+    aktywny BOOLEAN NOT NULL DEFAULT TRUE,   		-- Status aktywności (domyślnie TRUE)
+    stanowisko VARCHAR(100) NOT NULL         		-- Stanowisko (max 100 znaków, wymagane)
+);
+
+
+INSERT INTO pracownicy (imie, nazwisko, pesel, email, data_przyjecia, aktywny, stanowisko)
+VALUES 
+('Jan', 'Kowalski', '12345678901', 'jan.kowalski@example.com', '2023-01-01', TRUE, 'Kierownik'),
+('Anna', 'Nowak', '09876543210', 'anna.nowak@example.com', '2022-05-15', FALSE, 'Asystent'),
+('Adam', 'Madam', '40940391099', 'Adam.madam@example.com', '2024-11-28', TRUE, 'Kierowca'),
+('Jan', 'Chrzan', '02222202021', 'chrzan.jan@example.com', '2024-05-15', FALSE, 'IT'),
+('Marek', 'Maruda', '61726377771', 'marekm@example.com', '2024-11-01', TRUE, 'Woźny'),
+('Tymon', 'Kabanos', '22234145521', 'kabanosytarczynskie@example.com', '2024-10-19', TRUE, 'Kucharz');
+
+
+CREATE ROLE piotr_admin WITH LOGIN PASSWORD 'strongpassword1';
+CREATE ROLE marta_admin WITH LOGIN PASSWORD 'strongpassword2';
+
+ALTER ROLE piotr_admin WITH SUPERUSER;
+ALTER ROLE marta_admin WITH SUPERUSER;
